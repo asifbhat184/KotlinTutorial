@@ -1,3 +1,3 @@
 fun main(){
-    println("pow")
+    println("hello!This is my first program in Kotlin.")
 }
